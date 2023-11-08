@@ -1,6 +1,3 @@
-# Fake_news_detection Group 38
-## Amulya Sethurao, Harshith Acharya, Mohammed Zubair Khan, Purva Makarand Kulkarni, Vinya Somayajula
-
 ## Abstract:
 Fake news is considered to be one of the greatest threats to commerce, journalism and democracy all over the world and with huge collateral damages. In our project, we use the LIAR dataset of real world political statements to identify if it as fake or not. Our project not only focuses on the content but on the subject, the source and the title as well to formulate both binary and 6 class classification problem with labels as true, mostly true, partially true, partially false, mostly false and false.
 
